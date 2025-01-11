@@ -1,7 +1,7 @@
 
 # Hi, I'm Abhishek Sharma! 👋
 ## 🚀 Offensive Security & Red Team Enthusiast
-I'm passionate about cybersecurity, specializing in offensive security and red teaming. I develop cutting-edge tools to explore vulnerabilities and demonstrate the importance of strong security measures.
+I'm a SOC Analyst passionate about cybersecurity, specializing in offensive security and red teaming. I develop cutting-edge tools to explore vulnerabilities and demonstrate the importance of strong security measures.
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=anonymous300502&show_icons=true&theme=radical)
 
