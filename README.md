@@ -3,6 +3,9 @@
 ## 🚀 Offensive Security & Red Team Enthusiast
 I'm a SOC Analyst passionate about cybersecurity, specializing in offensive security and red teaming. I develop cutting-edge tools to explore vulnerabilities and demonstrate the importance of strong security measures.
 
+## Note - 
+Whatever is present on this profile is solely for educational purposes and developer won't be liable for any unethical or illegal activity pertaining to any kind. Please use the tools and programs for research and understanding, keep the cyber space secure. 
+
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=anonymous300502&show_icons=true&theme=radical)
 
 
