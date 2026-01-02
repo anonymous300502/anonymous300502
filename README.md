@@ -6,8 +6,6 @@ I'm a SOC Analyst passionate about cybersecurity, specializing in offensive secu
 ## Note - 
 Whatever is present on this profile is solely for educational purposes and developer won't be liable for any unethical or illegal activity pertaining to any kind. Please use the tools and programs for research and understanding, keep the cyber space secure. 
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=anonymous300502&show_icons=true&theme=radical)
-
 
 ## 🔧 Projects
 - [PyPi](https://github.com/anonymous300502/DopeShellPyPi): A python library uploaded on PyPi to create encrypted reverse shells with session management capability.
