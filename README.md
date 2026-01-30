@@ -10,7 +10,8 @@ Whatever is present on this profile is solely for educational purposes and devel
 ## 🔧 Projects
 - [PyPi](https://github.com/anonymous300502/DopeShellPyPi): A python library uploaded on PyPi to create encrypted reverse shells with session management capability.
 - [NukeAMSI](https://github.com/anonymous300502/Nuke-AMSI): A powerful tool to bypass AMSI in memory for seamless exploitation.
-- [BindFLTAbuse](https://github.com/anonymous300502/BindFLTAbuse): Re-implementation of EDRStartupHinder tool with reduced detection, higher sleath and extreme operational security. 
+- [BindFLTAbuse](https://github.com/anonymous300502/BindFLTAbuse): Re-implementation of EDRStartupHinder tool with reduced detection, higher sleath and extreme operational security.
+- [AMSIReaper](github.com/anonymous300502/AMSIReaper): Implementation of Nuke-Amsi in C++ 
 - [Alleyes](https://github.com/anonymous300502/Alleyes): Python-based spyware for keystroke logging.
 - [RansomPy](https://github.com/anonymous300502/RansomPy): A ransomware tool that fully encrypts the target system.
 - [Supereworm](https://github.com/anonymous300502/Supereworm): A destructive worm that erases hard drives.
